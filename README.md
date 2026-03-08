@@ -1,4 +1,4 @@
-# IDS-ActF2-Georgeadis_Arias
+# IDS-ActF3-Georgeadis_Arias
 
 Aplicación Java con interfaz grafica para el registro y consulta de alumnos.
 
